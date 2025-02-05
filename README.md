@@ -5,3 +5,5 @@
 Para ejecutar el sitenama debes poner:
 
 ```npn install react```
+
+Sistema de registro 2
